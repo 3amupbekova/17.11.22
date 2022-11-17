@@ -7,3 +7,7 @@ font-weight: 200;
 p{ color: indigo;
 font-style: italic;
 background-image: repeating-linear-gradient(pink,gold,pink);}
+h2 {color: rgba(245, 245, 220, 0.592);}
+h3{color: chartreuse;}
+h4 {color: blue;}
+h5 {color:gold;}
