@@ -4,3 +4,6 @@ font-style: italic;
 font-size: larger;
 font-weight: 200;
 }
+p{ color: indigo;
+font-style: italic;
+background-image: repeating-linear-gradient(pink,gold,pink);}
